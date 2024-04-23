@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713839908.92805 "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" "Notes.pdf" "Notes" 1713839914.11631 0
+["pdflatex"] 1713843972.077 "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" "Notes.pdf" "Notes" 1713843976.893 0
   "../headers/assignment_header.tex" 1713838591 5892 773ed0c3039c1abb8de6b9b6c79b688d ""
   "C:/Users/H/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713836183 122477 90938fecfcf430b1e9d5512b3b5a84d1 ""
   "C:/Users/H/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1633132246 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -262,10 +262,10 @@
   "C:/Users/H/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/H/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/H/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "Notes.aux" 1713839913 2295 633bfe2e5db4fcd53f5fc71af9b500cc "pdflatex"
-  "Notes.out" 1713839913 2151 44d480bc6db1fc05bfcd9ce48b046737 "pdflatex"
-  "Notes.tex" 1713839907 47391 862a1dd33c20f28d0bed9acf37bcee8f ""
-  "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" 1713839907 47391 862a1dd33c20f28d0bed9acf37bcee8f ""
+  "Notes.aux" 1713843976 2395 5e4ecfd4fabee06ea8ace4d9c3b49d1d "pdflatex"
+  "Notes.out" 1713843976 2151 44d480bc6db1fc05bfcd9ce48b046737 "pdflatex"
+  "Notes.tex" 1713843965 47404 74ac253a01cd19dd75b3f98ae7805c31 ""
+  "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" 1713843965 47404 74ac253a01cd19dd75b3f98ae7805c31 ""
   (generated)
   "Notes.aux"
   "Notes.log"
