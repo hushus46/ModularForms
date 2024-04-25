@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1714046053.45908 "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" "Notes.pdf" "Notes" 1714046058.71544 0
+["pdflatex"] 1714046415.14622 "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" "Notes.pdf" "Notes" 1714046420.95164 0
   "../headers/assignment_header.tex" 1713838591 5892 773ed0c3039c1abb8de6b9b6c79b688d ""
   "C:/Users/H/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714044984 122477 90938fecfcf430b1e9d5512b3b5a84d1 ""
   "C:/Users/H/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1633132246 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -270,10 +270,10 @@
   "Fig1.png" 1714044507 43730 864b82990523790263eade0d0758d7cf ""
   "Fig2.png" 1714045062 18334 2856769c8b21644e31df17b84d3030e2 ""
   "Fig3.png" 1714045201 95597 b09ea5b440170fc5858f198751d68f0f ""
-  "Notes.aux" 1714046058 2800 64a3f202ab91fc403603771b21b29995 "pdflatex"
-  "Notes.out" 1714046058 2151 44d480bc6db1fc05bfcd9ce48b046737 "pdflatex"
-  "Notes.tex" 1714046052 52556 7ca15a32a30f3e7e698776092e1115aa ""
-  "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" 1714046052 52556 7ca15a32a30f3e7e698776092e1115aa ""
+  "Notes.aux" 1714046420 2800 64a3f202ab91fc403603771b21b29995 "pdflatex"
+  "Notes.out" 1714046420 2151 44d480bc6db1fc05bfcd9ce48b046737 "pdflatex"
+  "Notes.tex" 1714046412 52563 4c251332134dfb13054bf013c90e39d6 ""
+  "c:/Users/H/Desktop/TeX/Modular Forms/Notes.tex" 1714046412 52563 4c251332134dfb13054bf013c90e39d6 ""
   (generated)
   "Notes.aux"
   "Notes.log"
