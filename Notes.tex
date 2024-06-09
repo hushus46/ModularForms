@@ -300,11 +300,11 @@ Then a modular form of weight \(2k\) admits power series expansions
 \[
     f(z) = \sum_{0}^{\infty} a_n q^n = \sum_{0}^{\infty} a_n e^{2\pi i n z}
 \]
-which converges when \(\vert q \vert <1\) (i.e. for \(\Im (z)>0\) ) which is obviously \(1\)-periodic and VERIFY
+which converges when \(\vert q \vert <1\) (i.e. for \(\Im (z)>0\) ) which is obviously \(1\)-periodic and 
 \[
     f\left(\frac{-1}{z}\right) = z^{2n}f(z)
 \]
-and is a cusp form when \[f(i \infty ) = 0 \implies \widetilde{f} = 0 \implies a_{0}=0 \]
+and is a cusp form when \[f(i \infty ) = 0 \implies \widetilde{f}(0) = 0 \implies a_{0}=0 \]
 
 \begin{claim}
     If \(f\) and \(f^{\prime} \) are of weight \(2k\) and \(2k^{\prime} \), respectively, the product \(f f^{\prime} \) is a modular form of weight \(2k+2k^{\prime} \)     
@@ -688,10 +688,10 @@ Since \(\widetilde{f} \) as defined before is meromorphic, there exists \(r>0\) 
         \includegraphics[width=0.35\textwidth]{Fig1.png}
         \caption{The contour \(\mathcal{C}_r\) }
     \end{figure}
-Suppose \(f\) has no poles on the boundary of \(D\) except possibly at \(\rho ,-\widetilde{\rho },i \). Then there exists a contour such that its interior contains a representative of each zero or pole of \(f\) not congrunet to \(i\) or \(\rho \). (Note that \(\rho = -1/\widetilde{\rho } \) ), so they are congruent by the \(S\) matrix). \\
+Suppose \(f\) has no poles on the boundary of \(D\) except possibly at \(\rho ,-\widetilde{\rho },i \). Then there exists a contour such that its interior contains a representative of each zero or pole of \(f\) not congrunet to \(i\) or \(\rho \). (Note that \(\rho = -1/\widetilde{\rho } \) , so they are congruent by the \(S\) matrix). \\
 Let \(\mathcal{C}_{r} \) denote this contour with the path given by the Figure 1. Then by the argument principle, we know 
 \[
-    \frac{1}{2\pi i}\int_{\mathcal{C}_{r}} \frac{\mathrm{d} f}{f} = \sum_{p\in (\mathbb{H}/G )\setminus {i,\rho } } v_p(f) 
+    \frac{1}{2\pi i}\int_{\mathcal{C}_{r}} \frac{\mathrm{d} f}{f} = \sum_{p\in (\mathbb{H}/G )\setminus \{i,\rho \} } v_p(f) 
 \]
 
 On the other hand, we can calculate the integral directly along the contour path. There are eight sections of the contour labeled \(C_1,\dots,C_8\) as in the figure.\\[6pt]
